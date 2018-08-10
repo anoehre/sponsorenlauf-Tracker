@@ -1,0 +1,27 @@
+﻿
+
+<h1>					
+	<div ng-repeat="laeufer in vm.DashboardData" class="row mh1"> 
+		
+			<div class="col-1"  ng-click="vm.Bookmark(laeufer)">	
+
+			<div ng-if="vm.IsBookmarked(laeufer)" > - </div>
+			<div ng-if="!vm.IsBookmarked(laeufer)" > + </div>
+
+			</div>
+			
+			
+			<div class="col-1">	{{laeufer.Id}}						</div>			
+			<div class="col-5">	{{laeufer.Name}}					</div>
+			
+			<div class="col-2" ng-click="vm.Decrease(laeufer)">	Down </div>
+			<div class="col-1">	{{laeufer.Runden}}					</div>
+			<div class="col-2" ng-click="vm.Increase(laeufer)">	Up	</div>
+			
+	</div>					
+</h1>
+
+<!-- Footer -->
+<div ng-include="'scripts/includes/foot.html'"></div>
+
+

@@ -1,0 +1,76 @@
+html {
+  overflow-y: hidden;
+}
+
+
+
+.marginLeftRightTenPx {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.marginRightTenPx {
+    margin-right: 10px;
+}
+
+h4 {
+    line-height: 1.6;
+}
+
+.marginTopBottomTwentyPx {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.list-group-item:hover {
+    cursor: pointer;
+}
+
+.list-group-item-muted {
+    background-color: lightgrey
+}
+
+.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
+
+
+.panel-default>.panel-heading {
+    background-color: #fff;
+}
+
+.panel-title {
+font-size: 14px;
+}
+
+.panel-body {
+    background-color: lightgrey;
+}
+
+.yellow {
+    color: #ffff00;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+

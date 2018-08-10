@@ -228,3 +228,16 @@ C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\obj\Debug\spons
 C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\obj\Debug\sponsorenlauf.API.csproj.CopyComplete
 C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\obj\Debug\sponsorenlauf.API.dll
 C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\obj\Debug\sponsorenlauf.API.pdb
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Microsoft.Owin.dll
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Microsoft.Owin.Security.dll
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Owin.dll
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Microsoft.Owin.xml
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Microsoft.Owin.Security.xml
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Microsoft.Owin.Cors.dll
+C:\dff\sponsorenlauf-Tracker\sponsorenlauf.API\sponsorenlauf.API\bin\Microsoft.Owin.Cors.xml
